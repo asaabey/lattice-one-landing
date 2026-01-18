@@ -1,0 +1,8 @@
+# Robots.txt for Lattice One Landing Page
+# https://lattice-one.dev
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://lattice-one.dev/sitemap.xml
